@@ -1,0 +1,36 @@
+#header
+{
+	
+	background-color:blue;
+	width:900px;
+	height:70px;
+	float:left;
+	
+	
+	
+}
+
+#main
+{
+
+   border-right-color:white;
+   border-right-style:solid;
+   font-size:22px;
+   color:white;
+   float:left;
+   padding-right:10px;
+   padding-left:10px;
+   
+   
+   
+}
+
+#area
+{
+	float:left;
+	font-size:22px;
+	color:white;
+	padding-right:10px;
+	padding-left:10px;
+}	
+
